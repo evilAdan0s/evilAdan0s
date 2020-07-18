@@ -2,7 +2,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** Web Security:man_student: | CTF:checkered_flag: | Read Team:smiling_imp:
+-  **Learning :** Web Security :man_student: | CTF :checkered_flag: | Read Team :smiling_imp:
 -  **Languages :** Python, C#, PHP, Java 
 -  **Hobbies :** Music :headphones:
 
