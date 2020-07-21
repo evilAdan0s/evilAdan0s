@@ -4,7 +4,8 @@
 name: Update Blog List
 
 on:
-  page_build
+  push:
+  workflow_dispatch:
 
 
 jobs:
