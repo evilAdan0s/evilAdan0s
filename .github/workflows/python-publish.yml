@@ -4,6 +4,7 @@
 name: Update Blog List
 
 on:
+  page_build
 
 
 jobs:
