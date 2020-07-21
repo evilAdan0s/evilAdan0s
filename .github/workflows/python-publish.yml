@@ -7,6 +7,8 @@ on:
   push:
   workflow_dispatch:
   page_build:
+  schedule:
+    - cron:  '* 10,22 * * *'
 
 
 jobs:
