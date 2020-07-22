@@ -4,7 +4,7 @@
 
 ### About
 
--  **Learning :** Web Security :man_student: | Capture The Flag :checkered_flag: | Red Team :smiling_imp:
+-  **Learning :** Web Security :man_student: | CTF :checkered_flag: | Red Team :smiling_imp:
 -  **Languages :** Python, C#, PHP, Java 
 -  **Hobbies :** Music :headphones:
 
