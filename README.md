@@ -13,8 +13,8 @@
 
 ### [Recent Blog](https://eviladan0s.github.io/)
 
+- [Hadoop的两个未授权漏洞分析（Restful和RPC）](https://eviladan0s.github.io/2021/11/16/hadoop-unauth-rce/) - 2021-11-16
 - [AMSI对抗](https://eviladan0s.github.io/2021/10/13/amsi-bypass/) - 2021-10-13
 - [利用LAN身份验证级别配置不当攻击域控](https://eviladan0s.github.io/2021/09/15/lan-configuration-error-to-attack-dc/) - 2021-09-15
 - [PsExec原理及防御](https://eviladan0s.github.io/2021/09/07/psexec-principle/) - 2021-09-07
 - [Cobalt Strike的几个功能原理分析](https://eviladan0s.github.io/2021/08/30/cobalt-strike-some-command-theory/) - 2021-08-30
-- [Cobalt Strike破解思路](https://eviladan0s.github.io/2021/08/30/cobalt-strike-crack/) - 2021-08-30
