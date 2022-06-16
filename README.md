@@ -6,7 +6,7 @@
 - 兴趣广泛，心得全无
 
 ---
-<img align="right" alt="png" src="./img/20200425_114513.png" />
+<img align="right" alt="png" src="./img/20200425_114513.png" width="400" height="400"/>
 
 ## Papers
 - [浅谈Syscall](https://www.red-team.tips/post/m2N39LOfj/)
