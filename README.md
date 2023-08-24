@@ -1,18 +1,15 @@
 ## Adan0s（白袍）
 
-- CTF & RedTeam
-- Python & Java
-- 目前在学内网渗透
-- 兴趣广泛，心得全无
-
+- Offensive Security Learner
+- OSCP
+- Aim to OSCE³
 ---
-<img align="right" alt="png" src="./img/20200425_114513.png" width="400" height="400"/>
 
 ## Papers
-- [浅谈Syscall](https://www.red-team.tips/post/m2N39LOfj/)
-- [Hadoop的两个未授权漏洞分析（Restful和RPC）](https://www.red-team.tips/post/9lcd-UcVI/)
+- [Mojarra JSF 反序列化到内存马](https://www.red-team.tips/post/za6ew894z/)
+- [Windows提权——土豆家族分析](https://www.red-team.tips/post/Z_yFjSJuK/)
 - [AMSI对抗](https://www.red-team.tips/post/amsi-dui-kang/)
-- [Cobalt Strike破解思路](https://www.red-team.tips/post/ZuqcfSxYL/)
+- [Java安全漫谈（5）——Tomcat 回显综述](https://www.red-team.tips/post/-tAnO3Z_4/)
 
 ## Repositories
 - [Windows域内协议分析](https://eviladan0s.gitbook.io/windowsdomainabout/)
