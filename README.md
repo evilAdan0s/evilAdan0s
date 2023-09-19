@@ -1,7 +1,7 @@
 ## Adan0s（白袍）
 
 - Offensive Security Learner
-- OSCP
+- OSCP, OSEP
 - Aim to OSCE³
 ---
 
